@@ -3,5 +3,6 @@
   "dependencies": {
     "aws-sdk": "1.0.0",
     "express": "1.0.0",
+    "pac-resolver": "4.2.0"
   }
 }
